@@ -1,4 +1,4 @@
 Strategy,Time(s)
-TextBlob,0.071674
-NLTK,0.052363
-spaCy,7.500838
+TextBlob,0.075343
+NLTK,0.046519
+spaCy,7.280372
